@@ -1,0 +1,23 @@
+[
+  {
+    "id": 6,
+    "supplierName": "mohammed",
+    "supplierPhone": "777930303",
+    "supplierEmail": "mohammed@gmail.com",
+    "supplierPassword": "lk432j;23df"
+  },
+  {
+    "id": 7,
+    "supplierName": "nasser",
+    "supplierPhone": "778393923",
+    "supplierEmail": "nasser@gmail.com",
+    "supplierPassword": "l;ksajdfl230-320lkds"
+  },
+  {
+    "id": 8,
+    "supplierName": "maher",
+    "supplierPhone": "77839093",
+    "supplierEmail": "maher@gmail.com",
+    "supplierPassword": "7793jdsndskjdslk"
+  }
+]
